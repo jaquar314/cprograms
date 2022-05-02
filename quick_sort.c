@@ -18,7 +18,7 @@ int main()
 }
 void quicksort(int a[], int l, int h)
 {
-    int i = l, j = h, p = l, t;
+    int i = l, j = h, p = l, t; 
     if (l < h)
     {
         while (i < j)

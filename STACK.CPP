@@ -31,7 +31,7 @@ int main()
     int ch,e;
     top=-1;
     while(1){
-    clrscr();
+    
     printf("\n enter the stock implementenship :");
     printf("\n1.push,\n2.pop\n3.display\n4.exit");
     printf("enter your choice");

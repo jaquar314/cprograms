@@ -1,7 +1,7 @@
-#include <stdio.h>
+ #include <stdio.h>
 int main()
 {
-    int a[10][10], b[10][10], m, n, i, j, c[10][10];
+    int a[10][10], b[10][10], m, n, i, j, c[10][10]; 
     printf("\n enter the range of the matrix :\n");
     scanf("%d %d", &m, &n);
     printf("\n enter the elements");
