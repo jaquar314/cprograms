@@ -22,7 +22,7 @@ void display()
  int main()
   {
     int ch,e;
-    clrscr();
+    
     f=0; r=-1;
     while(1)
     {

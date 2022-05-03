@@ -9,8 +9,7 @@ int main()
         for(j=0;j<m;j++)
         scanf("%d",a[i][j]);
         for(i=0;i<m;i++)
-            t+=a[i][j];
-        
+            t+=a[i][j];        
         printf("the trace of the matrix is :%d",t);
     return 0;
 }

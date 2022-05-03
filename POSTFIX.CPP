@@ -52,7 +52,7 @@ double getval(double x,double y,char z)
     {
       char post[80];
       int i;
-      clrscr();
+      
       printf("\n enter your post fix expression:");
       gets(post);
       printf("\n value of the postfix expression is %lf",eval(post));
