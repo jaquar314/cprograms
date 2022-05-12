@@ -18,6 +18,7 @@ int main()
   }
   if (p)
   {
+    
     printf("%d", i);
     i++;
   }

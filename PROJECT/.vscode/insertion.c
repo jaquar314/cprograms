@@ -28,7 +28,7 @@ void ins(int a[],int n)
     for (i=0;i<n;i++)
     {
         key=a[i];
-        j=i-1;
+        j=j-1;
         while((j>=0)&& key<a[j])
         {
             a[j+1]=a[j];
